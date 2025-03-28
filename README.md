@@ -3,6 +3,7 @@
 A summary and preview are provided below.
 
 reference.csv and analysis.csv
+
 Column	Description
 * 'timestamp'	Date of the transaction.
 * 'time_since_login_min'	Time since the user logged in to the app.
