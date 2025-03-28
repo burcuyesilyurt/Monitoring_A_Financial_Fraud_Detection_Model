@@ -1,4 +1,4 @@
-# Monitoring_A_Financial_Fraud_Detection_Model
+# Monitoring A Financial Fraud Detection Model
 
 A summary and preview are provided below.
 
